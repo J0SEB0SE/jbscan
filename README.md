@@ -4,12 +4,12 @@ this is a lightweight network scanning tool built in Python. Designed with clari
 get inside josebse directory
 
 ## Step 2
-1. **for setup in Linux/MAC**
+1. **for setup on Linux/MAC**
 
 ```bash
 ./linmac.sh
 ```
-2. **for setup in Windows**
+2. **for setup on Windows**
  ```bash
    cmd
    ```
